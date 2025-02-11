@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.veterinariaapp">
+
+    <application
+        <meta-data
+            android:name=".MapActivity"
+            android:value="darw" />
+        <activity android:name=".MapActivity" />
+    </application>
+</manifest>
